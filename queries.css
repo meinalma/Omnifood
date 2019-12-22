@@ -24,6 +24,27 @@
    .steps-box {
      margin-top: 10px;
   }
+    .main-nav {
+      display: none;
+    }
+    .mobile-nav-icon {
+      display: inline-block;
+    }
+    .main-nav {
+      float: left;
+      margin-top: 25px;
+    }
+    .main-nav li {
+      display: block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited {
+      display: block;
+      border: 0;
+    }
+    .sticky .mobile-nav-icon ion-icon {
+      color: #555;
+    }
     .steps-box:last-child { margin-top: 10px;
   }
     .works-step {
@@ -107,6 +128,12 @@
   .long-copy {
     width: 100%;
     margin: 0%;
+  }
+  .hamburger-items {
+    z-index: 999 !important;
+    position: relative;
+    font-size: 70% !important;
+    padding: 2% !important;
   }
   h1 {
     fontsize: 180%;
