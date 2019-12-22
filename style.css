@@ -101,7 +101,7 @@ h3 {
 /* HEADER */
 /*------------------------------------------- */
 header {
-  background-image: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1335&q=80');
+  background-image: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url('images/heroopt.jpeg');
   background-size: cover;
   background-position: centered;
   height: 100vh;
@@ -305,7 +305,7 @@ header {
 /* CUSTOMER TESTIMONIALS */
 /*------------------------------------------- */
 .section-testimonials {
-  background-image: linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.8)), url(https://images.pexels.com/photos/2619970/pexels-photo-2619970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+  background-image: linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.8)), url('images/testimonials-backgroundopt.jpeg');
   background-size: cover;
   color: white;
   background-attachment: fixed;
